@@ -35,7 +35,7 @@
 <!--  -->
 On progress......
 <p align="left" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<a href="https://github.com/johnnie33/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=johnnie33&&show_icons=true&theme=radical"/>
   </a>
 
