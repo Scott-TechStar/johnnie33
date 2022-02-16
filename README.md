@@ -4,10 +4,9 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/john-mwadime-ba4428161?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTZvIps%2BsSNSCahmUKn5%2BwQ%3D%3D"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/JohnnieCourtnie"><img height="30" src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-Twitter-icon-transparent-PNG.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/johnmwadime"><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/johnny.kipeix"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR487mHvkk07mHcMMYmF2w-Y2i7Gv9SmwduoQ&usqp=CAU?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/john-mwadime-ba4428161?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTZvIps%2BsSNSCahmUKn5%2BwQ%3D%3D"><img height="30" src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/socials/linkedin.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/JohnnieCourtnie"><img height="30" src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/socials/twitter.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://wa.me/+254718800384"><img height="30" src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/socials/whatsapp.svg?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 
@@ -47,17 +46,17 @@ On progress......
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/dev/languages/r.svg" alt="R" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/johnnie33/Budges/main/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 <br />
 
